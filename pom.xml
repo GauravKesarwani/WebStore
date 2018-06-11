@@ -45,12 +45,12 @@
   		<dependency>
 	<groupId>mysql</groupId>
 	<artifactId>mysql-connector-java</artifactId>
-	<version>5.1.6</version>
+	<version>5.1.42</version>
 </dependency>
   		<dependency>
 	<groupId>com.amazonaws</groupId>
 	<artifactId>aws-java-sdk</artifactId>
-	<version>1.8.10.2</version>
+	<version>1.9.0</version>
 </dependency>
   		
     <dependency>
@@ -90,7 +90,7 @@
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
 			<artifactId>httpclient</artifactId>
-			<version>4.3.1</version>
+			<version>4.5.2</version>
 			<exclusions>
 				<exclusion>
 					<artifactId>commons-logging</artifactId>
@@ -111,7 +111,7 @@
 		<dependency>
 			<groupId>commons-collections</groupId>
 			<artifactId>commons-collections</artifactId>
-			<version>3.2</version>
+			<version>3.2.2</version>
 		</dependency>
 		<dependency>
 			<groupId>commons-logging</groupId>
@@ -131,7 +131,7 @@
 		<dependency>
 			<groupId>commons-beanutils</groupId>
 			<artifactId>commons-beanutils</artifactId>
-			<version>1.8.3</version>
+			<version>1.9.2</version>
 		</dependency>
 		
   </dependencies>
